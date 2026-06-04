@@ -1,0 +1,10 @@
+Hostel,Time,Liters_used, Status
+Thomas_Abraham,Morning,38000,Normal
+Psalm_onehall,Morning,38000,Overuse
+Maria_Abraham,Morning,42000,Normal
+Thomas_Abraham,Night,1500,Normal
+Psalm_onehall,Night,34000,Suspected leak
+Maria_Abraham,Night,1200,Normal
+Thomas_Abraham,Afternoon,18000,Normal
+Psalm_onehall,Afternoon,95000, Overuse
+Maria_Abraham,Afternoon,22000,Normal
